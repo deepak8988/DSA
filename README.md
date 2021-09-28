@@ -49,6 +49,8 @@ LC_73_Set_Matrix_Zeroes.java
 
 [LC_617_Merge_Two_Binary_Trees](https://github.com/deepak8988/DSA/blob/main/LC_617_Merge_Two_Binary_Trees.java)
 
+[LC_226_Invert_Binary_Tree](https://github.com/deepak8988/DSA/blob/main/LC_226_Invert_Binary_Tree.java)
+
 
 ## GRAPH
 [LC_133_Clone_Graph.java](https://github.com/deepak8988/DSA/blob/main/LC_133_Clone_Graph.java)
