@@ -55,6 +55,8 @@ LC_73_Set_Matrix_Zeroes.java
 
 [LC_98_Validate_Binary_Search_Tree](https://github.com/deepak8988/DSA/blob/main/LC_98_Validate_Binary_Search_Tree.java)
 
+[LC_145_Binary_Tree_Postorder_Traversal](https://github.com/deepak8988/DSA/blob/main/LC_145_Binary_Tree_Postorder_Traversal.java)
+
 
 ## GRAPH
 [LC_133_Clone_Graph.java](https://github.com/deepak8988/DSA/blob/main/LC_133_Clone_Graph.java)
