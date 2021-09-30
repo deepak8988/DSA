@@ -41,6 +41,8 @@ My DSA practice
 
 
 ## ARRAY
+[LC_75_Sort_Colors](https://github.com/deepak8988/DSA/blob/main/LC_75_Sort_Colors.java)
+
 LC217_Contains_Duplicate.java
 
 LC268_Missing_Number.java
