@@ -3,6 +3,8 @@ My DSA practice
 
 ## BFS/DFS/TREE:
 
+[LC_105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal](https://github.com/deepak8988/DSA/blob/main/Tree_bfs_dfs/LC_105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)
+
 [LC_230_Kth_Smallest_Element_in_a_BST](https://github.com/deepak8988/DSA/blob/main/Tree_bfs_dfs/LC_230_Kth_Smallest_Element_in_a_BST.java)
 
 [LC_662_Maximum_Width_of_Binary_Tree](https://github.com/deepak8988/DSA/blob/main/Tree_bfs_dfs/LC_662_Maximum_Width_of_Binary_Tree.java)
