@@ -3,6 +3,8 @@ My DSA practice
 
 ## BFS/DFS/TREE:
 
+[LC_116_Populating_Next_Right_Pointers_in_Each_Node](https://github.com/deepak8988/DSA/blob/main/Tree_bfs_dfs/LC_116_Populating_Next_Right_Pointers_in_Each_Node.java)
+
 [LC_124_Binary_Tree_Maximum_Path_Sum](https://github.com/deepak8988/DSA/blob/main/Tree_bfs_dfs/LC_124_Binary_Tree_Maximum_Path_Sum.java)
 
 [LC_863_All_Nodes_Distance_K_in_Binary_Tree](https://github.com/deepak8988/DSA/blob/main/Tree_bfs_dfs/LC_863_All_Nodes_Distance_K_in_Binary_Tree.java)
